@@ -24,4 +24,4 @@ Analysed the restaurant dataset to uncover various informations such as:
 * Only 2451 restaurants provide online delivery option.
 * India is the dominant hotspot for restaurant density.
 * Cafe Coffee Day is the most popular restaurant across the world.
-* Barbeque Nation is recoganized as the highly rated restaurant when comparing with others.
+* Barbeque Nation is recognized as the highly rated restaurant when comparing with others.
