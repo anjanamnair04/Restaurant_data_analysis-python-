@@ -7,21 +7,21 @@ Analysed the restaurant dataset to uncover various informations such as:
 * Distribution of price ranges among restaurants.
 * Percentage of restaurants that provide online delivery.
 ## Tools used
-Python
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Folium
+* Python
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Folium
 ## Project workflow
-Data cleaning and Preprocessing
-Exploratory Data Analysis
-Visualization and Insights
+* Data cleaning and Preprocessing
+* Exploratory Data Analysis
+* Visualization and Insights
 ## Insights
-North indian, Chinese and Fast food are the most served cuisines by majority of restaurants.
-New Delhi has the highest number of restaurants with a total of 5473 establishments.
-Inner city has the highly rated restaurants.
-A total of 7091 restaurants which provide online delivery option.
-India is the dominant hotspot for restaurant density.
-Cafe Coffee Day is the most popular restaurant across the world.
-Barbeque Nation is recoganized as the highly rated restaurant when comparing with others.
+* North indian, Chinese and Fast food are the most served cuisines by majority of restaurants.
+* New Delhi has the highest number of restaurants with a total of 5473 establishments.
+* Inner city has the highly rated restaurants.
+* A total of 7091 restaurants which provide online delivery option.
+* India is the dominant hotspot for restaurant density.
+* Cafe Coffee Day is the most popular restaurant across the world.
+* Barbeque Nation is recoganized as the highly rated restaurant when comparing with others.
