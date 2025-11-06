@@ -1,11 +1,11 @@
 # Restaurant Dataset Analysis
 Analysing a restaurant dataset consist of 9551 rows and 21 columns which provide various information regarding each restaurants.
 ## About the project
-Analysed the restaurant dataset to uncover various informations such as
-Top cuisines.
-City with highest number of restaurants.
-Distribution of price ranges among restaurants.
-percentage of restaurants that provide online delivery.
+Analysed the restaurant dataset to uncover various informations such as:
+* Top cuisines.
+* City with highest number of restaurants.
+* Distribution of price ranges among restaurants.
+* Percentage of restaurants that provide online delivery.
 ## Tools used
 Python
 Pandas
